@@ -5,5 +5,6 @@ This project fetches champion data from the League of Legends API and stores it 
 ## Reminder
 
 Install dependencies:
->pip install requests
->pip install psycopg2-binary
+```sh
+pip install requests
+pip install psycopg2-binary
